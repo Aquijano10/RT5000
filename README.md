@@ -13,3 +13,5 @@ Requirement Gathering and Interview Questions
 10. Can it connect to other apps that help it calculate ex. grams of a certain macronutrient?
     
 [Trello Link](https://trello.com/b/aYL2CIvm/user-stories)
+
+![Chili and Rice Lucidchart](image.jpg)
