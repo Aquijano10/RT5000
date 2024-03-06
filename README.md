@@ -14,4 +14,4 @@ Requirement Gathering and Interview Questions
     
 [Trello Link](https://trello.com/b/aYL2CIvm/user-stories)
 
-![Chili and Rice Lucidchart](image.jpg)
+![Chili and Rice Lucidchart](ChiliandRiceLucidChart.png)
