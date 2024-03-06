@@ -12,3 +12,4 @@ Requirement Gathering and Interview Questions
 9. Can is be wireless?
 10. Can it connect to other apps that help it calculate ex. grams of a certain macronutrient?
     
+[Trello Link](https://trello.com/b/aYL2CIvm/user-stories)
