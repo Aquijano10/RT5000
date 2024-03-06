@@ -14,4 +14,5 @@ Requirement Gathering and Interview Questions
     
 [Trello Link- User stories, functional and non-functional requirements](https://trello.com/b/aYL2CIvm/user-stories)
 
+# Chili and Rice Lucid Chart 
 ![Chili and Rice Lucidchart](ChiliandRiceLucidChart.png)
